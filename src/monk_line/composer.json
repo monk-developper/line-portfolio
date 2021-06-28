@@ -1,0 +1,7 @@
+{
+    "name": "root/monk_line",
+    "require": {
+        "vlucas/phpdotenv": "^5.3",
+        "linecorp/line-bot-sdk": "^7.0"
+    }
+}
